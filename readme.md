@@ -15,12 +15,23 @@ Practical examples are also provided to ease the comprehension of the presented 
 
 ## Development Guidelines
 
+- all the notes to be reported in `.md` files only
 - method comparative based on execution **timing** 
 - implement `wiki` (i.e. internal linking in all files)
   - master file connected to al the ones contained in subfolders
   - each file connected to its parent and children (if present)
 - folder structure to be defined while going ahead with the implementation
 - use `LaTeX` for formula
+
+# Other Topics
+
+Other topics to be investigated:
+
+- secant method (root finding)
+- Ridder's method
+- finite difference model
+- partial differential equations
+- multidimensional boundary value problems
 
 --- 
 # Resources and Snippets
