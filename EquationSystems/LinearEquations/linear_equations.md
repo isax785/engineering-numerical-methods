@@ -41,7 +41,7 @@ If the coefficient matrix determinant is *nonsingular* (i.e. $|A|\neq0$). The ro
 
 The matrix is almost singular (i.e. $|A|$ is very small) when the *determinant* is much smaller than the *norm* (i.e. $\parallel A \parallel$) of the matrix.
 
-**Euclidan Norm**
+**Euclidean Norm**
 
 $$\parallel A \parallel_e = $$
 
@@ -59,9 +59,6 @@ $$cond(A)=\parallel A \parallel \parallel A^{-1} \parallel$$
 - <a href="https://en.wikipedia.org/wiki/Determinant">WikiPedia: Matrix Determinant</a>
 - <a href="https://netlib.org/lapack/">LAPACK Linear Algebra Solver</a>
 - <a href="https://docs.scipy.org/doc/scipy/reference/linalg.lapack.html">`scipy` Low Level LAPACK Functions</a>
-
-
-
 
 ---
 <p align="center"><a href="../../readme.md">Home</a> | <a href="../equation_systems.md">Equation Systems</a></p>
