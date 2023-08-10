@@ -34,10 +34,22 @@ Other topics to be investigated:
 - multidimensional boundary value problems
 
 --- 
-# Resources and Snippets
+
+# Snippets
 
 Linking:
 
-`<a href="path/here"> Display Text </a>`
+- `<a href="path/here"> Display Text </a>` : <a href="./DataManipulation/data_manipulation.md">Data Manipulation</a>
+- `[Display Text](path/here)` : [Data Manipulation](./DataManipulation/data_manipulation.md)\
 
-<a href="./DataManipulation/data_manipulation.md">Data Manipulation</a>
+---
+
+# Resources
+
+## `pdf` Books
+
+All the `pdf` here mentioned can be retrieved from the main `LIBRARY`:
+
+- `[book] Modeling and Simulation in Python.pdf`
+- `[book] numerical methods for computational science and engineering.pdf`
+- `[book] Numerical Methods in Engineering with Python 3.pdf`
