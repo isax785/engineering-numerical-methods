@@ -11,6 +11,8 @@
 
 ---
 
+> ❗❗❗ Working Progress ❗❗❗
+
 `Engineering Numerical Methods` is a collection of numerical methods aimed at solving the most common problems that can be encounterd in engineering applications.
 
 The whole content is presented in form of **wiki**, with multiple markdown files fully linked together.
@@ -43,6 +45,8 @@ Map of Contents:
 - [ ] `#a` `decorators` documentation
 - [x] `#a` `CoolProp` plot `ph` diagram given a list of multiple `(T, p, x)` points
 - [x] `#a` `CoolProp` toolbox (with reference to version number of the module)
+
+---
 
 # Development Guidelines
 
