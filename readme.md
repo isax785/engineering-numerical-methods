@@ -1,19 +1,37 @@
 # Readme
 
+- [Readme](#readme)
+- [MOC](#moc)
+  - [TODO](#todo)
+- [Development Guidelines](#development-guidelines)
+- [Other Topics](#other-topics)
+- [Snippets](#snippets)
+- [Resources](#resources)
+  - [`pdf` Books](#pdf-books)
+
+---
+
 `Engineering Numerical Methods` is a collection of numerical methods aimed at solving the most common problems that can be encounterd in engineering applications.
 
 The whole content is presented in form of **wiki**, with multiple markdown files fully linked together.
 
 Practical examples are also provided to ease the comprehension of the presented methods and provide an insight of practical application.
 
+# MOC
+
 Map of Contents:
 
+- **Documentation**
 - [CoolProp Utilities](./doc/doc_coolprop_utils.md)
 - [Decorators](./doc/doc_decorators.md)
 - [Numerical Convergence](./doc/doc_numerical_convergence.md)
 - [Table Printout](./doc/doc_table_printout.md)
 - [Utilities](./doc/doc_utils.md)
-
+- **Development**
+- [CoolProp Utils](dev/dev_coolprop_utils.ipynb)
+- [Curve Intersection](dev/dev_curve_intersection.ipynb)
+- [Numerical Convergence](dev/dev_numerical-convergence.ipynb)
+- [Table Printout](dev/dev_table_printout.ipynb)
 
 ## TODO
 
@@ -26,7 +44,7 @@ Map of Contents:
 - [x] `#a` `CoolProp` plot `ph` diagram given a list of multiple `(T, p, x)` points
 - [x] `#a` `CoolProp` toolbox (with reference to version number of the module)
 
-## Development Guidelines
+# Development Guidelines
 
 - all the notes to be reported in `.md` files only
 - method comparative based on execution **timing** 
