@@ -6,12 +6,25 @@ The whole content is presented in form of **wiki**, with multiple markdown files
 
 Practical examples are also provided to ease the comprehension of the presented methods and provide an insight of practical application.
 
+Map of Contents:
+
+- [CoolProp Utilities](./doc/doc_coolprop_utils.md)
+- [Decorators](./doc/doc_decorators.md)
+- [Numerical Convergence](./doc/doc_numerical_convergence.md)
+- [Table Printout](./doc/doc_table_printout.md)
+- [Utilities](./doc/doc_utils.md)
+
+
 ## TODO
 
 - [ ] `img` folder containing all the images to be linked in the `md` files
 - [ ] identify and add license
-
 - [ ] `py` script for index/links generation
+- [ ] `#a` curves intersection to `utilities`
+- [ ] `#a` into `Table Printout`, markdown table printout
+- [ ] `#a` `decorators` documentation
+- [x] `#a` `CoolProp` plot `ph` diagram given a list of multiple `(T, p, x)` points
+- [x] `#a` `CoolProp` toolbox (with reference to version number of the module)
 
 ## Development Guidelines
 
